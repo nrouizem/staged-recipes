@@ -1,5 +1,5 @@
 {% set name = "openmm-dlext" %}
-{% set version = "0.6.0" %}
+{% set version = "0.7.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/nrouizem/openmm-dlext/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: f8722989aa11e59bef03bbe92baf5ec8e66667dce57b6752d6435b67a2ab7d3e
+  sha256: eae451a348a8bcf471218ad16c9a3c27809c31fc2a0a77f0aa1930c4b6b818f0
 
 build:
   number: 1
