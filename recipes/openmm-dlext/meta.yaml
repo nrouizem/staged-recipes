@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/nrouizem/openmm-dlext/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed
+  sha256: f8722989aa11e59bef03bbe92baf5ec8e66667dce57b6752d6435b67a2ab7d3e
 
 build:
   number: 1
